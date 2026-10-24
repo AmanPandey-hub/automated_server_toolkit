@@ -27,8 +27,8 @@ A lightweight, modular **Bash-based utility** designed to streamline routine Lin
 
 1. Clone or download the repository:
    ```bash
-   git clone [https://github.com/your-username/automated-server-toolkit.git](https://github.com/your-username/automated-server-toolkit.git)
-   cd automated-server-toolkit
+   git clone [https://github.com/AmanPandey-hub/automated_server_toolkit.git](https://github.com/your-username/automated-server-toolkit.git)
+   cd automated_server_toolkit
 
 2. Make the script executable:
  
