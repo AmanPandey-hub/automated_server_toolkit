@@ -1,4 +1,4 @@
-#Automated Server Toolkit 
+Automated Server Toolkit 
 
 A lightweight, modular **Bash-based utility** designed to streamline routine Linux system administration tasks. Built as a foundational tool for cloud engineering workflows, this toolkit provides automated system health monitoring and reliable file backups out of the box.
 
